@@ -13,7 +13,6 @@ namespace TestApp
             PrintName();
             PrintCity();
             PrintState();
-            PrintCountry();
             Console.Read();
         }
 
@@ -35,7 +34,7 @@ namespace TestApp
 
         public static void PrintCountry()
         {
-            Console.WriteLine("India");
+
         }
     }
 }
