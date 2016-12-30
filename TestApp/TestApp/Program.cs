@@ -11,12 +11,17 @@ namespace TestApp
         static void Main(string[] args)
         {
             PrintName();
+            PrintCity();
             Console.Read();
         }
 
         public static void PrintName()
         {
             Console.WriteLine("Kamlesh");
+        }
+        public static void PrintCity()
+        {
+            Console.WriteLine("Pune");
         }
     }
 }
