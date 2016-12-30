@@ -12,6 +12,7 @@ namespace TestApp
         {
             PrintName();
             PrintCity();
+            PrintState();
             Console.Read();
         }
 
@@ -19,9 +20,15 @@ namespace TestApp
         {
             Console.WriteLine("Kamlesh");
         }
+
         public static void PrintCity()
         {
             Console.WriteLine("Pune");
+        }
+
+        public static void PrintState()
+        {
+            Console.WriteLine("Maharashtra");
         }
     }
 }
