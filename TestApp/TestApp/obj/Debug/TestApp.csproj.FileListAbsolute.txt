@@ -1,5 +1,0 @@
-C:\Users\kamlesh.bhor\Source\Repos\MyDev\TestApp\TestApp\bin\Debug\TestApp.exe.config
-C:\Users\kamlesh.bhor\Source\Repos\MyDev\TestApp\TestApp\bin\Debug\TestApp.exe
-C:\Users\kamlesh.bhor\Source\Repos\MyDev\TestApp\TestApp\bin\Debug\TestApp.pdb
-C:\Users\kamlesh.bhor\Source\Repos\MyDev\TestApp\TestApp\obj\Debug\TestApp.exe
-C:\Users\kamlesh.bhor\Source\Repos\MyDev\TestApp\TestApp\obj\Debug\TestApp.pdb
