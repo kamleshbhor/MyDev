@@ -30,5 +30,10 @@ namespace TestApp
         {
             Console.WriteLine("Maharashtra");
         }
+
+        public static void PrintCountry()
+        {
+
+        }
     }
 }
