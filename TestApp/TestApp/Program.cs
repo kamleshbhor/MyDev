@@ -13,6 +13,7 @@ namespace TestApp
             PrintName();
             PrintCity();
             PrintState();
+            PrintCountry();
             Console.Read();
         }
 
